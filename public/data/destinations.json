@@ -1,0 +1,742 @@
+[
+    {
+        "id": "1",
+        "slug": "paris",
+        "cityName": "Paris",
+        "country": "França",
+        "continent": "europe",
+        "date": "24/11/2024",
+        "lat": "48.8566",
+        "lon": "2.3522",
+        "cardImage": "/assets/paris/paris-card.jpg",
+        "bannerDetail": "/assets/paris/paris.webp",
+        "shortDescription": [
+            "Paris é um destino que encanta pela sua combinação única de história, arte e romantismo. Ao visitar a capital francesa, pode esperar passeios inesquecíveis por monumentos icónicos, como a Torre Eiffel, o Arco do Triunfo e a Catedral de Notre-Dame. Museus de renome mundial, como o Louvre e o Museu d’Orsay, oferecem uma viagem às obras-primas de artistas como Da Vinci, Monet e Van Gogh. Caminhar pelas margens do rio Sena ou pelas encantadoras ruas de bairros como Montmartre proporciona momentos mágicos, com paisagens dignas de postais a cada esquina.",
+            "Para além das atrações turísticas, Paris é um verdadeiro deleite para os sentidos. A gastronomia é incomparável, com cafés acolhedores, padarias recheadas de croissants acabados de sair do forno e restaurantes de renome que destacam o melhor da cozinha francesa. Pode também explorar a vida cultural vibrante, com teatros, óperas e lojas elegantes em avenidas como a Champs-Élysées. Seja para uma escapadinha romântica ou uma aventura cultural, Paris promete experiências que ficam gravadas na memória."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Subir à Torre Eiffel",
+                    "description": "Admire vistas deslumbrantes da cidade do alto de um dos monumentos mais icónicos do mundo."
+                },
+                {
+                    "title": "Explorar o Museu do Louvre",
+                    "description": "Descubra obras-primas como a Mona Lisa e a Vénus de Milo num dos museus mais famosos do planeta."
+                },
+                {
+                    "title": "Passear pelas margens do Sena",
+                    "description": "Desfrute de um passeio romântico ou explore as feiras de livros e artesanato dos bouquinistes."
+                },
+                {
+                  "title": "Descobrir Montmartre e a Basílica do Sagrado Coração",
+                  "description": "Explore o bairro artístico e suba até à basílica para vistas deslumbrantes."
+                },
+                {
+                  "title": "Visitar a Catedral de Notre-Dame",
+                  "description": "Admire a arquitetura gótica e a história de um dos maiores ícones de Paris."
+                },
+                {
+                  "title": "Caminhar pelos Jardins de Luxemburgo",
+                  "description": "Relaxe nestes belos jardins, perfeitos para um piquenique ou uma tarde tranquila."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+          {
+            "image": [
+              {
+                "path": "/assets/paris/bannerparis1.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis2.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis3.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis4.png"
+              },
+              {
+                "path": "/assets/paris/bannerparis5.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis6.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis7.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis8.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis9.jpg"
+              },
+              {
+                "path": "/assets/paris/bannerparis10.jpg"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "id": "2",
+        "slug": "lisboa",
+        "cityName": "Lisboa",
+        "country": "Portugal",
+        "continent": "europe",
+        "date": "10/11/2024",
+        "lat": "38.7169",
+        "lon": "-9.1390",
+        "cardImage": "/assets/lisboa/lisboa-card.jpg",
+        "bannerDetail": "/assets/lisboa/lisboa.jpg",
+        "shortDescription": [
+            "Lisboa é uma cidade vibrante que combina charme histórico com modernidade. Com as suas sete colinas, oferece vistas deslumbrantes em miradouros como o Miradouro da Senhora do Monte e o Castelo de São Jorge. A capital portuguesa é um convite para explorar ruas estreitas e sinuosas nos bairros de Alfama e Mouraria, onde o fado ecoa em tabernas tradicionais. Belém, por sua vez, encanta com monumentos como a Torre de Belém e o Mosteiro dos Jerónimos, patrimónios da UNESCO que celebram a Era dos Descobrimentos.",
+            "A gastronomia lisboeta é uma experiência à parte, com pratos como o bacalhau à brás e doces típicos como os pastéis de nata. Lisboa também oferece uma vibrante cena cultural e artística, com o MAAT e o Museu Calouste Gulbenkian a destacar-se. Além disso, a proximidade do rio Tejo e o icónico Parque das Nações proporcionam locais perfeitos para caminhadas relaxantes. Lisboa é, sem dúvida, um destino que equilibra autenticidade e inovação, ideal para todos os tipos de viajantes."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Explorar o Mosteiro dos Jerónimos",
+                    "description": "Visite este impressionante monumento manuelino em Belém, um Património Mundial da UNESCO."
+                },
+                {
+                    "title": "Subir ao Castelo de São Jorge",
+                    "description": "Desfrute de vistas panorâmicas da cidade e do rio Tejo a partir deste marco histórico."
+                },
+                {
+                    "title": "Passear pelo bairro de Alfama",
+                    "description": "Descubra as ruas estreitas e o charme único deste bairro histórico."
+                },
+                {
+                  "title": "Visitar a Torre de Belém",
+                  "description": "Explore este ícone de Lisboa e testemunhe a sua importância histórica."
+                },
+                {
+                  "title": "Provar os pastéis de nata",
+                  "description": "Experimente esta iguaria famosa em uma pastelaria tradicional."
+                },
+                {
+                  "title": "Caminhar ao longo do rio Tejo",
+                  "description": "Aproveite o ambiente tranquilo e as vistas deslumbrantes à beira-rio."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/lisboa/lisboa1.jpg"
+                },
+                {
+                  "path": "/assets/lisboa/lisboa2.jpg"
+                },
+                {
+                  "path": "/assets/lisboa/lisboa3.jpg"
+                },
+                {
+                  "path": "/assets/lisboa/lisboa4.jpg"
+                },
+                {
+                  "path": "/assets/lisboa/lisboa5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "slug": "barcelona",
+        "cityName": "Barcelona",
+        "country": "Espanha",
+        "continent": "europe",
+        "date": "25/10/2024",
+        "lat": "41.3879",
+        "lon": "2.1699",
+        "cardImage": "/assets/barcelona/barcelona-card.jpg",
+        "bannerDetail": "/assets/barcelona/barcelona.jpg",
+        "shortDescription": [
+            "Barcelona é uma cidade onde a criatividade e a história se encontram em perfeita harmonia. Famosa pelas obras de Antoni Gaudí, como a Sagrada Família e o Parque Güell, a arquitetura modernista é um dos principais atrativos. O Bairro Gótico transporta os visitantes ao passado medieval, enquanto a vibrante avenida La Rambla oferece uma experiência urbana única. Barcelona também é conhecida pelas suas praias e pelo Porto Olímpico, locais ideais para relaxar e aproveitar o clima mediterrânico.",
+            "A cultura catalã é marcante na gastronomia, com pratos como a paella e tapas que encantam todos os paladares. Além disso, a cidade respira arte e música, com o Museu Picasso e apresentações de flamenco e música contemporânea espalhadas por toda a cidade. Seja explorando mercados como o La Boqueria ou apreciando a vista do Monte Tibidabo, Barcelona proporciona uma experiência inesquecível."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Visitar a Sagrada Família",
+                    "description": "Admire o trabalho impressionante de Antoni Gaudí nesta basílica icónica."
+                },
+                {
+                    "title": "Passear pela La Rambla",
+                    "description": "Explore a famosa avenida repleta de lojas, cafés e artistas de rua."
+                },
+                {
+                    "title": "Explorar o Parque Güell",
+                    "description": "Descubra as cores e formas únicas deste parque desenhado por Gaudí."
+                },
+                {
+                  "title": "Conhecer o Bairro Gótico",
+                  "description": "Percorra as ruas históricas e admire a arquitetura medieval."
+                },
+                {
+                  "title": "Visitar a Casa Batlló",
+                  "description": "Explore esta obra-prima modernista no coração de Barcelona."
+                },
+                {
+                  "title": "Relaxar na Praia de Barceloneta",
+                  "description": "Aproveite o sol e o mar nesta famosa praia urbana."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/barcelona/barcelona1.jpg"
+                },
+                {
+                  "path": "/assets/barcelona/barcelona2.jpg"
+                },
+                {
+                  "path": "/assets/barcelona/barcelona3.jpg"
+                },
+                {
+                  "path": "/assets/barcelona/barcelona4.jpg"
+                },
+                {
+                  "path": "/assets/barcelona/barcelona5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "slug": "amsterdam",
+        "cityName": "Amsterdão",
+        "country": "Países Baixos",
+        "continent": "europe",
+        "date": "15/09/2024",
+        "lat": "52.3676",
+        "lon": "4.9041",
+        "cardImage": "/assets/amsterdam/amsterdam-card.jpg",
+        "bannerDetail": "/assets/amsterdam/amsterdam.jpg",
+        "shortDescription": [
+            "Amsterdão é uma cidade que encanta pela sua combinação de charme histórico e inovação moderna. Os famosos canais, classificados como Património Mundial pela UNESCO, são perfeitos para passeios de barco ou caminhadas românticas. O centro histórico preserva edifícios do século XVII, enquanto áreas como o Bairro Jordaan oferecem uma atmosfera artística e acolhedora. Amsterdão é também conhecida pelos seus museus de renome, como a Casa de Anne Frank e o Rijksmuseum, que celebram arte e história de forma única.",
+            "A cidade também é um paraíso para ciclistas, com uma vasta rede de ciclovias que atravessam parques como o Vondelpark e bairros modernos como Amsterdam-Noord. A gastronomia local inclui delícias como stroopwafels e arenque fresco, além de uma cena de cafés vibrante. Seja explorando mercados como o Albert Cuyp ou relaxando em frente aos canais, Amsterdão oferece uma experiência inesquecível a cada esquina."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Visitar a Casa de Anne Frank",
+                    "description": "Conheça a história emocionante de Anne Frank e sua família."
+                },
+                {
+                    "title": "Passear pelos canais",
+                    "description": "Descubra a beleza dos canais de Amsterdão num passeio de barco."
+                },
+                {
+                    "title": "Explorar o Museu Van Gogh",
+                    "description": "Admire uma vasta coleção de obras do famoso pintor."
+                },
+                {
+                  "title": "Conhecer o Rijksmuseum",
+                  "description": "Descubra a arte e história neerlandesa neste museu icônico."
+                },
+                {
+                  "title": "Visitar o Bairro Jordaan",
+                  "description": "Explore este charmoso bairro repleto de boutiques e cafés."
+                },
+                {
+                  "title": "Desfrutar do Vondelpark",
+                  "description": "Relaxe no maior parque de Amsterdão, ideal para um piquenique."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/amsterdam/amsterdam1.jpg"
+                },
+                {
+                  "path": "/assets/amsterdam/amsterdam2.jpg"
+                },
+                {
+                  "path": "/assets/amsterdam/amsterdam3.jpg"
+                },
+                {
+                  "path": "/assets/amsterdam/amsterdam4.jpg"
+                },
+                {
+                  "path": "/assets/amsterdam/amsterdam5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "slug": "roma",
+        "cityName": "Roma",
+        "country": "Itália",
+        "continent": "europe",
+        "date": "01/08/2024",
+        "lat": "41.9028",
+        "lon": "12.4964",
+        "cardImage": "/assets/roma/roma-card.jpg",
+        "bannerDetail": "/assets/roma/roma.jpg",
+        "shortDescription": [
+            "Roma, conhecida como a Cidade Eterna, é um destino que cativa com sua história e grandiosidade. Monumentos icônicos como o Coliseu, o Fórum Romano e o Panteão oferecem uma viagem ao coração da Roma Antiga, enquanto o Vaticano encanta com a Basílica de São Pedro e a magnífica Capela Sistina. Fontes como a Fontana di Trevi e praças como a Piazza Navona acrescentam um toque de charme e beleza incomparáveis à cidade.",
+            "A gastronomia é um dos destaques de Roma, com pratos emblemáticos como a carbonara e o cacio e pepe conquistando os visitantes. Cafés tradicionais e trattorias oferecem experiências deliciosas, enquanto o ambiente descontraído de bairros como Trastevere torna os passeios ainda mais agradáveis. Em cada esquina, Roma revela uma mistura de história, cultura e autenticidade."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Explorar o Coliseu",
+                    "description": "Descubra o maior anfiteatro já construído e um símbolo da Roma antiga."
+                },
+                {
+                    "title": "Visitar o Vaticano",
+                    "description": "Admire a Basílica de São Pedro e a Capela Sistina com obras de Michelangelo."
+                },
+                {
+                    "title": "Jogar uma moeda na Fontana di Trevi",
+                    "description": "Participe da tradição e faça um desejo nesta fonte famosa."
+                },
+                {
+                  "title": "Caminhar pelo Fórum Romano",
+                  "description": "Explore as ruínas que foram o coração da antiga Roma."
+                },
+                {
+                  "title": "Conhecer a Piazza Navona",
+                  "description": "Aprecie a beleza desta praça barroca com suas fontes deslumbrantes."
+                },
+                {
+                  "title": "Subir ao Monte Palatino",
+                  "description": "Descubra as origens lendárias de Roma neste local histórico."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/roma/roma1.jpg"
+                },
+                {
+                  "path": "/assets/roma/roma2.jpg"
+                },
+                {
+                  "path": "/assets/roma/roma3.jpg"
+                },
+                {
+                  "path": "/assets/roma/roma4.jpg"
+                },
+                {
+                  "path": "/assets/roma/roma5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "slug": "berlim",
+        "cityName": "Berlim",
+        "country": "Alemanha",
+        "continent": "europe",
+        "date": "20/06/2024",
+        "lat": "52.5200",
+        "lon": "13.4050",
+        "cardImage": "/assets/berlim/berlim-card.jpg",
+        "bannerDetail": "/assets/berlim/berlim.jpg",
+        "shortDescription": [
+            "Berlim é uma cidade vibrante que une história e modernidade de forma única. Marcos como o Portão de Brandemburgo, o Memorial do Holocausto e o Muro de Berlim contam histórias importantes do século XX, enquanto o Reichstag, com sua cúpula de vidro, simboliza um futuro transparente e democrático.",
+            "A cidade também é famosa por sua criatividade, refletida em bairros como Kreuzberg, com arte urbana e mercados locais. A gastronomia é diversificada, indo do tradicional currywurst a opções internacionais, e a vida noturna, conhecida mundialmente, é uma experiência à parte. Berlim é uma mistura fascinante de cultura, inovação e história."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Visitar o Portão de Brandemburgo",
+                    "description": "Explore este símbolo icónico da reunificação alemã."
+                },
+                {
+                    "title": "Passear pela Ilha dos Museus",
+                    "description": "Descubra alguns dos melhores museus da Europa em um só lugar."
+                },
+                {
+                    "title": "Conhecer o Memorial do Holocausto",
+                    "description": "Refletir sobre a história em um dos memoriais mais importantes do mundo."
+                },
+                {
+                  "title": "Explorar o Reichstag",
+                  "description": "Suba ao topo do edifício do parlamento para vistas panorâmicas."
+                },
+                {
+                  "title": "Visitar a East Side Gallery",
+                  "description": "Veja a maior seção restante do Muro de Berlim, agora transformada em galeria de arte."
+                },
+                {
+                  "title": "Passear por Kreuzberg",
+                  "description": "Descubra o lado alternativo de Berlim em um bairro vibrante e multicultural."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/berlim/berlim1.jpg"
+                },
+                {
+                  "path": "/assets/berlim/berlim2.jpg"
+                },
+                {
+                  "path": "/assets/berlim/berlim3.jpg"
+                },
+                {
+                  "path": "/assets/berlim/berlim4.jpg"
+                },
+                {
+                  "path": "/assets/berlim/berlim5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "7", 
+        "slug": "tokyo",
+        "cityName": "Tokyo",
+        "country": "Japão",
+        "continent": "asia",
+        "date": "05/03/2024",
+        "lat": "35.6895",
+        "lon": "139.6917",
+        "cardImage": "/assets/tokyo/tokyo-card.jpg",
+        "bannerDetail": "/assets/tokyo/tokyo.jpg",
+        "shortDescription": [
+            "Tokyo é uma metrópole vibrante onde o passado e o futuro se encontram. Explore os antigos templos de Asakusa, como o Senso-ji, e maravilhe-se com a arquitetura futurista de Shinjuku. Experimente a gastronomia japonesa, desde sushi fresco no mercado de peixes de Toyosu até pratos únicos em izakayas.",
+            "A cidade também oferece uma vida noturna animada em áreas como Roppongi e Shibuya, além de opções culturais como o Museu Nacional de Tóquio e apresentações de teatro Kabuki. Durante a primavera, os parques de Tokyo são um espetáculo de cerejeiras em flor."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Visitar o Senso-ji",
+                    "description": "Descubra o templo mais antigo de Tokyo e aprecie as ruas tradicionais ao redor."
+                },
+                {
+                    "title": "Explorar Shibuya",
+                    "description": "Atravesse o famoso cruzamento e mergulhe na cultura jovem e vibrante da área."
+                },
+                {
+                    "title": "Visitar o Palácio Imperial",
+                    "description": "Caminhe pelos belos jardins e admire a residência oficial do Imperador do Japão."
+                },
+                {
+                    "title": "Passear pelo Parque Ueno",
+                    "description": "Aproveite a tranquilidade dos jardins e visite museus localizados no parque."
+                },
+                {
+                    "title": "Conhecer Akihabara",
+                    "description": "Explore o paraíso da tecnologia e da cultura otaku."
+                },
+                {
+                    "title": "Apreciar a vista da Tokyo Skytree",
+                    "description": "Obtenha uma visão panorâmica impressionante da cidade."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/tokyo/tokyo1.jpg"
+                },
+                {
+                  "path": "/assets/tokyo/tokyo2.jpg"
+                },
+                {
+                  "path": "/assets/tokyo/tokyo3.jpg"
+                },
+                {
+                  "path": "/assets/tokyo/tokyo4.jpg"
+                },
+                {
+                  "path": "/assets/tokyo/tokyo5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "8", 
+        "slug": "new-york",
+        "cityName": "Nova York",
+        "country": "EUA",
+        "continent": "north america",
+        "date": "18/11/2023",
+        "lat": "40.7128",
+        "lon": "-74.0060",
+        "cardImage": "/assets/new-york/new-york-card.jpg",
+        "bannerDetail": "/assets/new-york/new-york.jpg",
+        "shortDescription": [
+            "Nova York é uma cidade que nunca dorme, oferecendo uma mistura de cultura, história e modernidade. Visite a Times Square, o Central Park e o icónico Empire State Building enquanto explora a Big Apple.",
+            "A cidade também abriga bairros icônicos como Harlem, Brooklyn e Chinatown, cada um com sua própria identidade cultural. Experimente os espetáculos da Broadway, os museus renomados como o MET e o MoMA, ou faça compras nas lojas da 5ª Avenida."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Passear no Central Park",
+                    "description": "Relaxe no coração verde da cidade e explore trilhas e atrações icónicas."
+                },
+                {
+                    "title": "Subir no Empire State Building",
+                    "description": "Desfrute de vistas panorâmicas impressionantes de Manhattan."
+                },
+                {
+                    "title": "Visitar o Museu de História Natural",
+                    "description": "Explore exposições fascinantes de ciência e história."
+                },
+                {
+                    "title": "Cruzar a Ponte do Brooklyn",
+                    "description": "Caminhe por esta estrutura icónica e aprecie vistas deslumbrantes do horizonte."
+                },
+                {
+                    "title": "Explorar a Estátua da Liberdade",
+                    "description": "Descubra um dos símbolos mais reconhecidos da liberdade."
+                },
+                {
+                    "title": "Visitar o One World Observatory",
+                    "description": "Tenha uma visão única de Nova York do topo deste moderno arranha-céu."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/new-york/new-york1.jpg"
+                },
+                {
+                  "path": "/assets/new-york/new-york2.jpg"
+                },
+                {
+                  "path": "/assets/new-york/new-york3.jpg"
+                },
+                {
+                  "path": "/assets/new-york/new-york4.jpg"
+                },
+                {
+                  "path": "/assets/new-york/new-york5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "9", 
+        "slug": "sydney",
+        "cityName": "Sydney",
+        "country": "Austrália",
+        "continent": "oceania",
+        "date": "02/05/2023",
+        "lat": "-33.8688",
+        "lon": "151.2093",
+        "cardImage": "/assets/sydney/sydney-card.jpg",
+        "bannerDetail": "/assets/sydney/sydney.jpg",
+        "shortDescription": [
+            "Sydney encanta com a Opera House, a Harbour Bridge e as praias deslumbrantes como Bondi Beach. Aproveite a cena gastronômica e a cultura australiana vibrante.",
+            "Além das atrações urbanas, a cidade oferece trilhas incríveis nos arredores, como as Blue Mountains, e experiências culturais nos museus locais. Sydney também é conhecida por eventos icônicos como o festival de luzes Vivid Sydney."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Visitar a Opera House",
+                    "description": "Descubra a icónica arquitetura e assista a um espetáculo de classe mundial."
+                },
+                {
+                    "title": "Cruzar a Harbour Bridge",
+                    "description": "Aventure-se por esta ponte icónica e aproveite vistas incríveis da baía."
+                },
+                {
+                    "title": "Passear por Bondi Beach",
+                    "description": "Relaxe na praia mais famosa de Sydney e experimente o surf."
+                },
+                {
+                    "title": "Explorar Darling Harbour",
+                    "description": "Descubra restaurantes, atrações culturais e passeios de barco."
+                },
+                {
+                    "title": "Caminhar pela trilha de Coogee a Bondi",
+                    "description": "Aprecie paisagens costeiras espetaculares durante este passeio."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/sydney/sydney1.jpg"
+                },
+                {
+                  "path": "/assets/sydney/sydney2.jpg"
+                },
+                {
+                  "path": "/assets/sydney/sydney3.jpg"
+                },
+                {
+                  "path": "/assets/sydney/sydney4.jpg"
+                },
+                {
+                  "path": "/assets/sydney/sydney5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "10", 
+        "slug": "cape-town",
+        "cityName": "Cidade do Cabo",
+        "country": "África do Sul",
+        "continent": "africa",
+        "date": "12/01/2023",
+        "lat": "-33.9249",
+        "lon": "18.4241",
+        "cardImage": "/assets/cape-town/cape-town-card.jpg",
+        "bannerDetail": "/assets/cape-town/cape-town.jpg",
+        "shortDescription": [
+            "Cidade do Cabo oferece belezas naturais impressionantes, desde a Montanha da Mesa até as vinícolas nas proximidades. Descubra a história e cultura da África do Sul.",
+            "A cidade também é conhecida por praias incríveis, como Camps Bay e Clifton, e pela vibrante vida noturna em Long Street. Não perca o passeio até o Cabo da Boa Esperança e a experiência cultural no bairro de Bo-Kaap."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Subir a Montanha da Mesa",
+                    "description": "Aprecie vistas espetaculares da cidade e do oceano Atlântico."
+                },
+                {
+                    "title": "Explorar o Cabo da Boa Esperança",
+                    "description": "Visite este ponto icônico e aproveite trilhas e vistas incríveis."
+                },
+                {
+                    "title": "Passear por Bo-Kaap",
+                    "description": "Explore as ruas coloridas e descubra a rica história cultural."
+                },
+                {
+                    "title": "Visitar as vinícolas de Stellenbosch",
+                    "description": "Deguste vinhos sul-africanos renomados em belos cenários."
+                },
+                {
+                    "title": "Relaxar em Camps Bay",
+                    "description": "Aproveite a praia com vistas para as montanhas Twelve Apostles."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/cape-town/cape-town1.jpg"
+                },
+                {
+                  "path": "/assets/cape-town/cape-town2.jpg"
+                },
+                {
+                  "path": "/assets/cape-town/cape-town3.jpg"
+                },
+                {
+                  "path": "/assets/cape-town/cape-town4.jpg"
+                },
+                {
+                  "path": "/assets/cape-town/cape-town5.jpg"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "11", 
+        "slug": "dubai",
+        "cityName": "Dubai",
+        "country": "Emirados Árabes Unidos",
+        "continent": "asia",
+        "date": "27/07/2022",
+        "lat": "25.2048",
+        "lon": "55.2708",
+        "cardImage": "/assets/dubai/dubai-card.jpg",
+        "bannerDetail": "/assets/dubai/dubai.jpg",
+        "shortDescription": [
+            "Dubai impressiona com arranha-céus luxuosos, como o Burj Khalifa, e experiências únicas no deserto. Explore mercados tradicionais e shoppings modernos.",
+            "A cidade também oferece experiências culturais fascinantes no bairro de Al Fahidi, passeios de dhow pelo Dubai Creek e eventos glamourosos durante todo o ano. Não perca as vistas do mirante do Burj Al Arab e os espetáculos das fontes de Dubai."
+        ],
+        "topics": [
+            {
+              "items": [
+                {
+                    "title": "Subir no Burj Khalifa",
+                    "description": "Admire a vista do edifício mais alto do mundo."
+                },
+                {
+                    "title": "Explorar o Dubai Mall",
+                    "description": "Descubra lojas de luxo, um aquário impressionante e inúmeras opções de entretenimento."
+                },
+                {
+                    "title": "Fazer um safari no deserto",
+                    "description": "Experimente dunas de areia, passeios de camelo e jantares tradicionais no deserto."
+                },
+                {
+                    "title": "Passear pelo bairro de Al Fahidi",
+                    "description": "Descubra a Dubai histórica com seus museus e arquitetura tradicional."
+                },
+                {
+                    "title": "Relaxar em Jumeirah Beach",
+                    "description": "Aproveite as praias com águas cristalinas e vistas para o Burj Al Arab."
+                }
+              ]
+            }
+        ],
+        "gallery": [
+            {
+              "image": [
+                {
+                  "path": "/assets/dubai/dubai1.jpg"
+                },
+                {
+                  "path": "/assets/dubai/dubai2.jpg"
+                },
+                {
+                  "path": "/assets/dubai/dubai3.jpg"
+                },
+                {
+                  "path": "/assets/dubai/dubai4.jpg"
+                },
+                {
+                  "path": "/assets/dubai/dubai5.jpg"
+                }
+              ]
+            }
+        ]
+    }
+]
